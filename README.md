@@ -1,4 +1,4 @@
-# csgo glow hack
+# csgo bhop hack
 
 Rake is a legend
 
